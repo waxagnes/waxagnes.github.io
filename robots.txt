@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waxagnes.github.io/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/app/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/assets/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/css/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/includes/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/item/sitemap.html.gz
+Sitemap: https://waxagnes.github.io/src/sitemap.html.gz
